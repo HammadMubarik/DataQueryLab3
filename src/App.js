@@ -5,6 +5,7 @@ import Header from './components/header';
 import Footer from './components/footer';
 import Content from './components/content';
 import Read from './components/read'
+import movies from './components/movies';
 
 function App() {
   return (
